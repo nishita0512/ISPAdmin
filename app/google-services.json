@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657613468461",
+    "project_id": "isp-app-d7bfd",
+    "storage_bucket": "isp-app-d7bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657613468461:android:3058a49aa53099afc219a4",
+        "android_client_info": {
+          "package_name": "com.example.isp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XkEZj5yjXHLPoS4sp366VFs24vWv1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657613468461:android:e4f44699827184f6c219a4",
+        "android_client_info": {
+          "package_name": "com.example.ispadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XkEZj5yjXHLPoS4sp366VFs24vWv1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
